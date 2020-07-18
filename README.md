@@ -16,7 +16,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Games
 *Games built on top of GPT3*
-- [Ai Dungeon](https://play.aidungeon.io/)
+- [AI Dungeon](https://play.aidungeon.io/)
 - [Learn from Anyone](https://learnfromanyone.com/)
 
 
