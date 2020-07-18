@@ -2,7 +2,7 @@
 
 A Curated list of awesome GPT3 tools, libraries and resources.
 
-Inspired by [awesome-pyton](https://github.com/vinta/awesome-python).
+Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 <sub>Just type <a href="gpt3.info"><code>gpt.info</code></a> to go here.  Follow me on <a href="https://twitter.com/AvadyMikhail">Twitter</a>.</sub>
 
