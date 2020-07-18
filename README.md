@@ -1,6 +1,5 @@
-# Awesome GPT3 	<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-Curating the best GPT3 tools and resources
-<div align="center">
+# Awesome GPT3 	<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"> 
+<div>Curating the best GPT3 tools and resources<div align="center"><div/>
 	<br>
 	<br>
 	</a>
