@@ -1,11 +1,8 @@
-# awesome-gpt3
+# Awesome GPT3 	<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 Curating the best GPT3 tools and resources
 <div align="center">
 	<br>
 	<br>
-	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
 		<sub>Just type <a href="gpt3.info"><code>gpt.info</code></a> to go here. Follow me on <a href="https://twitter.com/AvadyMikhail">Twitter</a>.</sub>
