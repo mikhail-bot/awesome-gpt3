@@ -32,3 +32,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Generated Tweets](https://thoughts.sushant-kumar.com/GPT-3)
 - [Elon Musk by Dr. Seuess](https://arr.am/2020/07/14/elon-musk-by-dr-seuss-gpt-3/) 
 - [Jerry Seingfeld & Eddie Murphy Talk](https://arr.am/2020/07/17/jerry-seinfeld-and-eddie-murphy-talk-shit-about-san-francisco-by-gpt-3/)
+- [Creative Fiction by Gwern ](https://www.gwern.net/GPT-3)
