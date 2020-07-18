@@ -36,4 +36,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Creative Fiction by Gwern](https://www.gwern.net/GPT-3)
 
 ## Cool Demos
+*Cool demos not publically accessible*
 - [Figma Designer](https://twitter.com/jsngr/status/1284511080715362304)
