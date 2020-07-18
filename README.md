@@ -22,6 +22,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Command Autocomplete](#cmd.xyz)
 	- [CMD.XYZ](https://cmd.xyz/)
 - [PDF Cleaning](https://www.gwern.net/GPT-3#pdf-cleaning)
+- [AI Assistant](#ai-assistant)
+	- [EthiData](https://www.ethi.me/)
 
 ## Games
 *Games built on top of GPT3*
