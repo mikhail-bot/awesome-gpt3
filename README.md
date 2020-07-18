@@ -11,7 +11,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome GPT3](#awesome-gpt3)
     - [Tools](#Tools)
     - [Games](#Games)
-    - [Works of Art](#Works of Art)
+    - [Works of Art](#Works-of-Art)
 
 
 ## Tools
