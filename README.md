@@ -15,7 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 ## Tools
-*Tools built ontop of GPT3*
+*Tools built on top of GPT3*
 - [Code Generation](#code-generation)
 	- [Debuild](https://debuild.co/)
 - [Command Autocomplete](#cmd.xyz)
