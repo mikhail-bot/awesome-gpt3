@@ -12,7 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Games](#Games)
     - [Tools](#Tools)
     - [Works of Art](#Works-of-Art)
-    - [Cool Demos](#Cool-Demos)
+    - [Guides](#guides)
 
 ## Games
 *Games built on top of GPT3*
@@ -39,7 +39,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Creative Fiction by Gwern](https://www.gwern.net/GPT-3)
 - [Human/machine Podcast](https://www.tinkeredthinking.com/index.php?id=836)
 
-## Cool Demos
-*Cool demos not publically accessible*
-- [Figma Designer](https://twitter.com/jsngr/status/1284511080715362304)
-
+## Guides
+- [[OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
+- [Building a Figma Designer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
