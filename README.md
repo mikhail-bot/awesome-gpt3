@@ -38,6 +38,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Jerry Seingfeld & Eddie Murphy Talk](https://arr.am/2020/07/17/jerry-seinfeld-and-eddie-murphy-talk-shit-about-san-francisco-by-gpt-3/)
 - [Creative Fiction by Gwern](https://www.gwern.net/GPT-3)
 - [Human/machine Podcast](https://www.tinkeredthinking.com/index.php?id=836)
+- [Essay on immortality](https://perceptions.substack.com/p/immortality-and-its-consequences?utm_campaign=post&utm_medium=web&utm_source=copy)
 
 ## Guides
 *Community Guides*
