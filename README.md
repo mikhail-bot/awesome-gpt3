@@ -40,5 +40,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Human/machine Podcast](https://www.tinkeredthinking.com/index.php?id=836)
 
 ## Guides
-- [[OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
+- [OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
 - [Building a Figma Designer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
