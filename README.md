@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Community Guides*
 - [OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
 - [Building a Figma Designer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
+- [GPT Community Wiki](http://gptprompts.wikidot.com/)
 
 ## Cool Demos
 *Cool Demo's not yet live*
