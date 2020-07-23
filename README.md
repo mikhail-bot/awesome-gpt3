@@ -43,6 +43,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Guides
 *Community Guides*
 - [OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
+- [Other Prompt Examples](https://github.com/maraoz/gpt-scrolls)
 - [Building a Figma Designer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 - [GPT Community Wiki](http://gptprompts.wikidot.com/)
 
