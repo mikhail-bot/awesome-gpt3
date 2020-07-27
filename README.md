@@ -29,7 +29,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [PDF Cleaning](https://www.gwern.net/GPT-3#pdf-cleaning)
 - [AI Assistant](#ai-assistant)
 	- [EthiData](https://www.ethi.me/)
--[Python Wrapper - Dolores](https://github.com/DNE-Digital/dolores)
 
 
 ## Works of Art
@@ -47,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Other Prompt Examples](https://github.com/maraoz/gpt-scrolls)
 - [Building a Figma Designer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 - [GPT Community Wiki](http://gptprompts.wikidot.com/)
+- [Python Wrapper - Dolores](https://github.com/DNE-Digital/dolores)
 
 ## Cool Demos
 *Cool Demo's not yet live*
