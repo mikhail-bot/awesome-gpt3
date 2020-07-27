@@ -29,6 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [PDF Cleaning](https://www.gwern.net/GPT-3#pdf-cleaning)
 - [AI Assistant](#ai-assistant)
 	- [EthiData](https://www.ethi.me/)
+-[Python Wrapper - Dolores](https://github.com/DNE-Digital/dolores)
 
 
 ## Works of Art
