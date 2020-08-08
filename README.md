@@ -23,7 +23,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Tools
 *Tools built on top of GPT3*
 - [Prompt Generation](#prompt-generation)
-	-[Explorer](https://github.com/belay-labs/gpt-explorer)
+	- [Explorer](https://github.com/belay-labs/gpt-explorer)
 - [Code Generation](#code-generation)
 	- [Debuild](https://debuild.co/)
 - [Command Autocomplete](#cmd.xyz)
