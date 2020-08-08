@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools built on top of GPT3*
 - [Prompt Generation](#prompt-generation)
 	- [Explorer](https://github.com/belay-labs/gpt-explorer)
+	- [Prompts.ai](https://prompts.ai/)
 - [Code Generation](#code-generation)
 	- [Debuild](https://debuild.co/)
 - [Command Autocomplete](#cmd.xyz)
