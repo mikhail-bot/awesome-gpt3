@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 	- [Copy.AI](https://www.copy.ai/)
 	- [Topic - Blog Idea Generator](https://www.usetopic.com/blog-idea-generator)
 	- [Snazzy](http://www.snazzy.ai/)
+	- [Spell](https://spell.tools/)
 - [Command Autocomplete](#cmd.xyz)
 	- [CMD.XYZ](https://cmd.xyz/)
 - [PDF Cleaning](https://www.gwern.net/GPT-3#pdf-cleaning)
