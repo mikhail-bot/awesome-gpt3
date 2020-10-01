@@ -51,6 +51,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Human/machine Podcast](https://www.tinkeredthinking.com/index.php?id=836)
 - [Essay on immortality](https://perceptions.substack.com/p/immortality-and-its-consequences?utm_campaign=post&utm_medium=web&utm_source=copy)
 - [Most Recommended Books - GPT3 Book Search](http://mostrecommendedbooks.com/gpt3)
+- [Most Recommended Books - GPT3 Book Search](http://mostrecommendedbooks.com/gpt3)
+- [AI Am I?](https://www.forbes.com/sites/jessedamiani/2020/09/21/in-this-exhibition-an-ai-dreams-up-imaginary-artworks-that-artist-alexander-reben-then-creates-irl/#49d93b7332e6)
+
 ## Guides
 *Community Guides*
 - [OpenAI API, Community Examples](https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664)
