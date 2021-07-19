@@ -74,3 +74,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Cool Demo's not yet live*
 
 - [Search Engine](https://twitter.com/paraschopra/status/1284801028676653060)
+	
+## Directories
+- [GPT-3 Demo](https://gpt3demo.com/)
