@@ -47,6 +47,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Email Plugins](#email-plugins)
   - [MagicEmail](https://magicemail.io)
   - [Compose](https://compose.ai)
+- [Automated Changelog Generation](#automated-changelog-generation)
+  - [Makelog](https://makelog.com/gpt3)
 
 
 ## Works of Art
