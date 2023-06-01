@@ -72,6 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [GPT Community Wiki](http://gptprompts.wikidot.com/)
 - [Python Wrapper - Dolores](https://github.com/DNE-Digital/dolores)
 - [Fine Tuning](https://github.com/cabhijith/GPT-3_Docs/blob/master/Fine-Tune.md)
+- [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 
 ## Cool Demos
 *Cool Demo's not yet live*
