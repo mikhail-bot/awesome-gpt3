@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Games
 *Games built on top of GPT3*
 - [AI Dungeon](https://play.aidungeon.io/)
+- [Auferet](https://auferet.com/) - AI game master for solo text adventures and tabletop RPGs with persistent memory and uploadable lore
 - [Learn from Anyone](https://learnfromanyone.com/)
 - [LitRPG](https://www.litrpgadventures.com/)
 
