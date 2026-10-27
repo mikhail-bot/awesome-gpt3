@@ -80,3 +80,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 	
 ## Directories
 - [GPT-3 Demo](https://gpt3demo.com/)
+- [RespawnStack](https://respawnstack.com/) - AI game tools directory for indie makers
